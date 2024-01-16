@@ -4,7 +4,7 @@ const Navbar = () => {
       <div className=" flex items-center justify-between">
         <h1 className="text-gray-800 hover:text-gray-950 text-2xl font-bold mr-10 cursor-pointer">
           My E-Book Store
-          <span className="font-semibold text-sm">E-Book Store</span>
+          <span className="font-semibold text-sm"> E-Book Store</span>
         </h1>
 
         <div className="flex items-center space-x-3">

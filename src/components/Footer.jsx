@@ -2,7 +2,7 @@ const Footer = () => {
   return (
     <footer className="p-6 mt-8">
       <div className="container mx-auto flex flex-col items-center">
-        <p className="text-lg font-bold mb-2">Book Haber</p>
+        <p className="text-lg font-bold mb-2">My E-Book Store</p>
         <p className="text-gray-600 mb-4">
           123 Book Street, Readingville, RV 54321
         </p>
